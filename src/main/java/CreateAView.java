@@ -63,7 +63,9 @@ public class CreateAView {
      *      |5      |'Adam'                |'Jones'                 |61       |
      */
 
-
+    public static void main(String [] args){
+        
+    }
 
     public void problem1(){
         /**

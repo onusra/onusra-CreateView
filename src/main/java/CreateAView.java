@@ -67,6 +67,8 @@ public class CreateAView {
         
     }
 
+    
+
     public void problem1(){
         /**
          * problem1: Create a view called "firstname_lastname" in problem1.sql from the site_user table that only has the firstname and lastname columns.
